@@ -1,7 +1,7 @@
 # Schlangenspiel (Snake Game) in Python
 
 
-![Alternativer Text](https://drive.google.com/uc?export=view&id=1TZJ_36QOu2I5MveDfuQeUfZsObSatrKC)
+![Snake Game (Server Offline)](https://drive.google.com/uc?export=view&id=1TZJ_36QOu2I5MveDfuQeUfZsObSatrKC)
 
 Dieses Schlangenspiel ist ein einfaches Spiel, das in Python mithilfe des Moduls Pygame erstellt wurde. Ziel dieses Projekts ist es, Python-Anfängern die Möglichkeit zu bieten, ihre Programmierkenntnisse zu verbessern und in die Spieleentwicklung einzusteigen.
 
