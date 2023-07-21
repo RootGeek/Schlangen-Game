@@ -16,7 +16,7 @@ Die Spielregeln sind einfach:
 
 ## Spiel starten
 
-Um das Schlangenspiel zu spielen, führen Sie das Python-Skript (snake_game.py) aus. Das Spiel wird in einem Fenster geöffnet, und Sie können die Steuerung über die Pfeiltasten der Tastatur übernehmen.
+Um das Schlangenspiel zu spielen, führen Sie das Python-Skript (snake.py) aus. Das Spiel wird in einem Fenster geöffnet, und Sie können die Steuerung über die Pfeiltasten der Tastatur übernehmen.
 
 ## Anpassungen und Verbesserungen
 
